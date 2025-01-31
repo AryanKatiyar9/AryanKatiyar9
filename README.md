@@ -11,8 +11,12 @@
 ### 🔥 HackerRank Profile
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aryankatiyarak2)
 ### 🔥 Leetcode Badge
-<div class="z-modal-5 fixed bottom-0 left-0 right-0 top-0" style="background-color: rgba(0, 0, 0, 0.5);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor" class="text-white dark:text-dark-white float-right mr-4 mt-3 h-6 w-6 cursor-pointer"><path fill-rule="evenodd" d="M13.414 12L19 17.586A1 1 0 0117.586 19L12 13.414 6.414 19A1 1 0 015 17.586L10.586 12 5 6.414A1 1 0 116.414 5L12 10.586 17.586 5A1 1 0 1119 6.414L13.414 12z" clip-rule="evenodd"></path></svg><div class="flex h-full w-full items-center justify-center"><div class="relative flex h-[160px] w-[160px] items-center justify-center"><img src="https://assets.leetcode.com/static_assets/others/badge-background.png" alt="badge background" class="absolute left-0 right-0 h-[160px] w-[160px]"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]"></div></div></div>
-<div class="flex h-full w-full items-center justify-center"><div class="relative flex h-[160px] w-[160px] items-center justify-center"><img src="https://assets.leetcode.com/static_assets/others/badge-background.png" alt="badge background" class="absolute left-0 right-0 h-[160px] w-[160px]"><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]"></div></div>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]">
+<img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]">
+<img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]">
+<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]">
+<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]">
+<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]">
 
 ## 🎨 Fun Animated Icons
 - 💻 **Code every day!**  
