@@ -24,7 +24,7 @@
   ![Puzzle](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 - 🚀 **Always aim higher!**  
   ![Rocket](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-#🌟 Links to Profiles
+# 🌟 Links to Profiles
 ## 💼LinkedIn Profile
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-katiyar-221913297)  
 ## 💻HackerRank Profile
